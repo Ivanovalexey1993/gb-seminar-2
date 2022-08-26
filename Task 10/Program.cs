@@ -5,8 +5,6 @@
 
 Console.WriteLine(" Введите трехзначное число: ");
 int number= Convert.ToInt32((Console.ReadLine()));
-
-
 int amount = number.ToString().Length;
 if (amount < 3 || amount > 3)
 {
