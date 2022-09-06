@@ -7,7 +7,8 @@ string? seriesOfNumbers = Console.ReadLine();
 
 seriesOfNumbers = seriesOfNumbers + ",";    
 
-string RemovingSpaces (string series){
+string RemovingSpaces (string series)
+{
   string seriesNew = "";
   for (int i = 0; i < series.Length; i++)
   {
