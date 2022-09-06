@@ -1,0 +1,5 @@
+C:\Users\Dns\Desktop\Home work\Семинар 4\Task 25\obj\obj\Debug\net6.0\obj.csproj.AssemblyReference.cache
+C:\Users\Dns\Desktop\Home work\Семинар 4\Task 25\obj\obj\Debug\net6.0\obj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dns\Desktop\Home work\Семинар 4\Task 25\obj\obj\Debug\net6.0\obj.AssemblyInfoInputs.cache
+C:\Users\Dns\Desktop\Home work\Семинар 4\Task 25\obj\obj\Debug\net6.0\obj.AssemblyInfo.cs
+C:\Users\Dns\Desktop\Home work\Семинар 4\Task 25\obj\obj\Debug\net6.0\obj.csproj.CoreCompileInputs.cache
