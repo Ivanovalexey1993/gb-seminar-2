@@ -1,4 +1,16 @@
-﻿Console.WriteLine("размер массива (строки):");
+﻿//Задача 56: Задайте прямоугольный двумерный массив. Напишите программу, которая будет находить строку с наименьшей суммой элементов.
+
+//Например, задан массив:
+
+//1 4 7 2
+
+//5 9 2 3
+
+//8 4 2 4
+
+//5 2 6 7
+
+Console.WriteLine("размер массива (строки):");
 int massVol = Convert.ToInt32(Console.ReadLine());
 int[,] numbers = new int[massVol, massVol];
 FillArrayRandomNumbers(numbers);
